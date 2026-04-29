@@ -1,6 +1,6 @@
 <div align="center">
 
-![CLAWPIXLABS Banner](.github_banner.png)
+![CLAWPIXLABS Banner](github_banner.png)
 
 # 🦀 CLAWPIXLABS
 
